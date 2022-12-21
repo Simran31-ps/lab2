@@ -7,3 +7,4 @@ f2 changes
 1st change remote merge conflict
 >>>>>>> c3b8b5a802f67b5bf7af099384ebf06abcd0508d
 f2 cahnges 2nd time
+f2 changes
